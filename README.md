@@ -2,7 +2,8 @@
 
 The pre-made customized cake app is developed on android using JAVA 
 
-App Name: "Make My Cake"
+<h3> App Name: <h3>
+  <b> "Make My Cake" </b>
 
 <h3> Functionalities: </h3>
 
